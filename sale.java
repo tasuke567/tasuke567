@@ -159,9 +159,9 @@ public class sale {
 	    pst = con.prepareStatement("select * from products");
 	    rs = pst.executeQuery();
 	    table_2.setModel(DbUtils.resultSetToTableModel(rs));
-	    SimpleDateFormat dFormat=new SimpleDateFormat("E, MMM dd yyyy     					HH:mm:ss");
+	   /* SimpleDateFormat dFormat=new SimpleDateFormat("E, MMM dd yyyy     					HH:mm:ss");
 		Date date = new Date();
-		txtdate.setText(dFormat.format(date));
+		txtdate.setText(dFormat.format(date));*/
 	} 
     	catch (SQLException e) 
     	 {
