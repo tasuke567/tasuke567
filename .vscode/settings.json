@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Wey\\Downloads\\jar_files\\jasperreports-fonts-6.19.0.jar",
+        "c:\\Users\\Wey\\Downloads\\mysql-connector-java-8.0.23.jar",
+        "c:\\Users\\Wey\\Downloads\\rs2xml\\rs2xml\\rs2xml.jar"
+    ]
+}
