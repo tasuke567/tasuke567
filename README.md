@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tasuke567
-- 👀 I’m interested in ...stack OVERFLOW
+- 👀 I’m interested in ...fullstack
 - 🌱 I’m currently learning ...JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
