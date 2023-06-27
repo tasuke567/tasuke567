@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tasuke567
 - 👀 I’m interested in ...fullstack
-- 🌱 I’m currently learning ...JAVA
+- 🌱 I’m currently learning ...javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
