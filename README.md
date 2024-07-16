@@ -8,5 +8,5 @@ I am a Web developer with experience in React, Flask. I enjoy working on project
 - Tools: Git, etc.
 
 ### Connect with me
-- [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/tasuke567/))
+- [LinkedIn](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/tasuke567/)
 
