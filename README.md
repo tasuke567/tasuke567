@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @tasuke567
-- 👀 I’m interested in ...fullstack
-- 🌱 I’m currently learning ...javascript python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hello, I'm Thapanakorn Yotyothinkul 👋
 
-<!---
-tasuke567/tasuke567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Web developer with experience in React, Flask. I enjoy working on projects related to anime.
+
+### Skills
+- Programming Languages: Python, JavaScript, etc.
+- Frameworks: React, etc.
+- Tools: Git, etc.
+
+### Connect with me
+- [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/tasuke567/))
+
