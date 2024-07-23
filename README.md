@@ -1,6 +1,6 @@
 ## Hello, I'm Thapanakorn Yotyothinkul 👋
 
-I am a Web developer with experience in React, Flask. I enjoy working on projects related to anime.
+I am a Web developer with experience in React, Flask. I enjoy working on projects related to Youtube.
 
 ### Skills
 - Programming Languages: Python, JavaScript, etc.
